@@ -1,0 +1,15 @@
+{
+  "type"      : "record",
+  "name"      : "Input2Value",
+  "namespace" : "ott",
+  "fields"    : [
+    {
+      "type": "string",
+      "name": "colour" 
+    },
+    {
+      "type": "string", 
+      "name": "house" 
+    }
+  ]
+}

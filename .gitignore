@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.jks
+*.pem
+app/target/**
+schema/target/**
+schema/src/main/java/**

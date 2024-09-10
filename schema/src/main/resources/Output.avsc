@@ -1,0 +1,23 @@
+{
+  "type"      : "record",
+  "name"      : "OutputValue",
+  "namespace" : "ott",
+  "fields"    : [
+    {
+      "type": "string",
+      "name": "fullName" 
+    },
+    {
+      "type": "string", 
+      "name": "team" 
+    },
+    {
+      "type": "string",
+      "name": "colour" 
+    },
+    {
+      "type": "string", 
+      "name": "house" 
+    }
+  ]
+}

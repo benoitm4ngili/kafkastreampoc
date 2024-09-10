@@ -1,0 +1,15 @@
+{
+  "type"      : "record",
+  "name"      : "Input1Value",
+  "namespace" : "ott",
+  "fields"    : [
+    {
+      "type": "string",
+      "name": "fullName" 
+    },
+    {
+      "type": "string", 
+      "name": "team" 
+    }
+  ]
+}
